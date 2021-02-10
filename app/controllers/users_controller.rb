@@ -1,4 +1,5 @@
 class UsersController < ApplicationController
+<<<<<<< HEAD
   def create
     puts params
 
@@ -20,4 +21,6 @@ class UsersController < ApplicationController
   end
 
 
+=======
+>>>>>>> cd6d1322c9361a869da1730418899884df76222e
 end

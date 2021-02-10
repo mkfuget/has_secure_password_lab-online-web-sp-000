@@ -1,5 +1,6 @@
 class SessionsController < ApplicationController
   def new
+<<<<<<< HEAD
       # nothing to do here!
   end
 
@@ -27,4 +28,7 @@ class SessionsController < ApplicationController
   end
 
 
+=======
+  end
+>>>>>>> cd6d1322c9361a869da1730418899884df76222e
 end
